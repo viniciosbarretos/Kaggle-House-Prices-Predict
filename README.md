@@ -7,8 +7,8 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 # Practice Skills
 
-Creative feature engineering 
-Advanced regression techniques like random forest and gradient boosting
+- Creative feature engineering 
+- Advanced regression techniques like random forest and gradient boosting
 
 
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
